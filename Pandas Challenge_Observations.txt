@@ -1,0 +1,6 @@
+Pandas Challenge_SHL
+Heroes of Pymoli Observations:
+* The most obvious observation that Heroes of Pymoli appeals to males over females by an overwhelming majority.  This would be interesting to dive into further to see why more females are not playing the game.
+* The most active age demographic is 15 – 24 year olds for participation and purchases which can be used to support marketing budgets and strategies weighted to that age range.  However, this demographic is on the decline and forward thinking leadership will dig deeper into the data to find ways to retain existing players if possible.
+* There is not a strong lead product among the items available for purchase.  Only 4 units separate the top 5 most popular items. And the top vote getter had only 13 sales out of 780 total purchases.
+
